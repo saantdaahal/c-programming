@@ -13,5 +13,5 @@ int main(){
     scanf("%f", &rate);
 
     printf("The simple intrest is: %f", principle*time*rate/100);
-    return 0;
+    return 0
 }
