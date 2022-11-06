@@ -7,7 +7,10 @@ int b = 8;
 // printf("The value of a - b is %d\n", a - b);
 // printf("The value of a * b is %d\n", a * b);
 // printf("The value of a / b is %d\n", a  b);
-printf("The carry of 5/2 is %d\n", 5%2);
-printf("The value of 4^6 is %f\n",pow(2, 2));
+// printf("The carry of 5/2 is %d\n", 5%2);
+// printf("The value of 4^6 is %f\n",pow(2, 2));
+
+printf("The nvalue of 6 + 5.6 is %f", 6 + 5.6);
+printf("The nvalue of 6 + 5.6 is %f", 6 + 5.6);
 return 0;
 }
