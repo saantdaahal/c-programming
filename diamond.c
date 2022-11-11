@@ -18,7 +18,7 @@ int main()
         //for loop to print the * diamond pattern
         for ( k= 1; k <= num; k++)  
         {  
-            printf("$");  
+            printf("*");  
         }  
         if(space > i)  
         {  
